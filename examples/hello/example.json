@@ -1,0 +1,1 @@
+{"schemaVersion": "1.1", "stackSize": "18432", "description": "This is a HelloWorld example, which shows the basic framework of every app.", "preBuildConfiguration": ["minimal", "typical", "extra"], "filesToOpen": ["hello_main.c"], "label": "Hello World"}

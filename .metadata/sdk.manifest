@@ -1,0 +1,1 @@
+{"type": "artik053", "supportedToolchainID": "arm-none-eabi", "label": "ARTIK 053 SDK", "version": "1.1", "exampleDirs": ["../examples"], "schemaVersion": "1.1"}

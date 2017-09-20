@@ -1,0 +1,1 @@
+{"schemaVersion": "1.1", "stackSize": "18432", "description": "This example shows the usage of system IO including adc, gpio, i2c, pwm, spi and uart. ", "preBuildConfiguration": ["typical", "extra"], "filesToOpen": ["sensorbd_main.c"], "label": "SystemIO"}

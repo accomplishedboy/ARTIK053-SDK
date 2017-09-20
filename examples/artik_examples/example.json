@@ -1,0 +1,1 @@
+{"schemaVersion": "1.1", "stackSize": "18432", "description": "These example shows an array of examples (adc, cloud, http, gpio, pwm, security, websocket, WiFi) which are based on Artik SDK.", "preBuildConfiguration": ["typical", "extra"], "filesToOpen": ["examples-api.c"], "label": "Artik SDK Examples"}

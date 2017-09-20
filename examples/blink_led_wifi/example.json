@@ -1,0 +1,1 @@
+{"schemaVersion": "1.1", "stackSize": "18432", "description": "This example shows how to connect the WiFi, and after connection, the LED on the board will blink.", "preBuildConfiguration": ["minimal", "typical", "extra"], "filesToOpen": ["blink_led_wifi.c"], "label": "Blink LED WiFi"}
